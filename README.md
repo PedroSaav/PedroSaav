@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Saavedra</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working at No Country **Airline E-commerce**
+- 🔭 I’m currently working at No Country 
 
 - 🌱 I’m currently learning **React**
 
