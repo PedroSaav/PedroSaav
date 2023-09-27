@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Saavedra</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working at Escuela de Ingles 
+- 🔭 I’m currently working as a freelancer.
 
 - 🌱 I’m currently learning **React**
 
