@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at Github [https://pepes-food.000webhostapp.com/](https://pepes-food.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at Github [https://pepes-food.000webhostapp.com/](https://pedroportfolio2024.000webhostapp.com/)]
 
 - 💬 Ask me about **Angular, Html, Css, Typescript**
 
